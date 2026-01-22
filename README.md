@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Sanju Hiremath
 
-<!--
-**codewithsanju-dev/codewithsanju-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Graduate (ECE)  
+💻 Aspiring MERN Stack / Frontend Developer  
+📍 Belagavi, Karnataka, India  
 
-Here are some ideas to get you started:
+I build responsive and scalable web applications using React JS and modern
+JavaScript. I have hands-on experience with REST APIs, JWT Authentication,
+protected routes, and real-world project development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actively seeking opportunities as a **Software Engineer / Frontend Developer / MERN Stack Developer**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python, SQL  
+- **Frontend:** HTML, CSS, React JS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub  
+- **Concepts:** REST APIs, JWT Authentication, Responsive Web Design  
+
+---
+
+## 🚀 Featured Projects
+
+- **Jobby App** – Job search platform with authentication & filters  
+- **Nxt Watch** – Video streaming application  
+- **Nxt Trendz** – E-commerce cart application  
+- **Travel Planner** – Multi-step booking application  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: sanjuhiremath268@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sanju-hiremath-137b72271  
+
+⭐ Thanks for visiting my GitHub profile!
